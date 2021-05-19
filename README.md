@@ -16,3 +16,19 @@ Alternatively, you can set a hotkey for this in your keyboard shortcuts.
 
 For ease of use, I recommend checking
 'Give full trust to this script' when it tries to access files.
+
+# Included
+
+* A blank creation sheet
+* My character testing rom
+* An aseprite script to pack everything automatically
+
+To see how the script and sheet work I recomend watching the tutorial videos below.
+It will go over some of the intricacies and subtlies of making a smw character that are easy to miss too.
+(Writen documentation coimg eventually)
+
+
+[![Video 1](https://img.youtube.com/vi/FJb-rR0cVhs/0.jpg)](https://youtu.be/FJb-rR0cVhs)
+[![Video 2](https://img.youtube.com/vi/t7qfZgj8nnc/0.jpg)](https://youtu.be/t7qfZgj8nnc)
+
+Enjoy!
