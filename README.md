@@ -25,10 +25,10 @@ For ease of use, I recommend checking
 
 To see how the script and sheet work I recomend watching the tutorial videos below.
 It will go over some of the intricacies and subtlies of making a smw character that are easy to miss too.
-(Writen documentation coimg eventually)
+(Writen documentation coming eventually)
 
 
-[![Video 1](https://img.youtube.com/vi/FJb-rR0cVhs/0.jpg)](https://youtu.be/FJb-rR0cVhs)
-[![Video 2](https://img.youtube.com/vi/t7qfZgj8nnc/0.jpg)](https://youtu.be/t7qfZgj8nnc)
+[![Video 1](https://cdn.discordapp.com/attachments/662577747104628756/844847699974029342/unknown.png)](https://youtu.be/FJb-rR0cVhs)
+[![Video 2](https://cdn.discordapp.com/attachments/662577747104628756/844847899741126686/unknown.png)](https://youtu.be/t7qfZgj8nnc)
 
 Enjoy!
